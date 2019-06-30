@@ -2,6 +2,10 @@
 Integrated effects from different sources into unity Post-processing Stack v2 format
 
 # Effect List
+
+original screenshot without Effect  
+<img src="https://docs.google.com/uc?id=1p3SioX9YwLXGOu1D22MGRuvS9CU7w2oy" width=256>
+
 Grayscale : from [unity tutorial](https://github.com/Unity-Technologies/PostProcessing/wiki/Writing-Custom-Effects)
 
 ## Kino : from [keijiro's repositry](https://github.com/keijiro)
