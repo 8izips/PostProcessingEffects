@@ -16,7 +16,7 @@ Grayscale : from [unity tutorial](https://github.com/Unity-Technologies/PostProc
 ----|---- 
 | AnalogGlitch | <img src="https://docs.google.com/uc?id=199qLbUUZcZ2n3UpKmEMahv1ilqBiRPbx" width=256> |
 | Contour | <img src="https://docs.google.com/uc?id=1cIf__FTuPJHne0-DKA8DRNeiEIjaH6wA" width=256> |
-| DigitalGlitch | <img src="https://docs.google.com/uc?id=199qLbUUZcZ2n3UpKmEMahv1ilqBiRPbx" width=256> |
+| DigitalGlitch | <img src="https://docs.google.com/uc?id=1NmNqO49kba-6_sby9HpkTBcCcFmOeoL7" width=256> |
 | Isoline | <img src="https://docs.google.com/uc?id=1IJSXYAzmzKEbId2Ge72BxNvwdHTixeb8" width=256> |
 | Ramp | <img src="https://docs.google.com/uc?id=1HRkED-6lE-pQOn4Fz9qo62PI1W_rsPO5" width=256> |
 | Streak | <img src="https://docs.google.com/uc?id=1VNcCcRAPK4_BT5GeWChO8MMWJcLkZ94z" width=256> |
